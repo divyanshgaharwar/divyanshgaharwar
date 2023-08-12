@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Divyansh Gaharwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216"/>
+<img align="right" alt="coding" width="400" src="[https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216](https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshgaharwar&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshgaharwar" /> </p>
+<p align="left"> <img src="(https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)" alt="divyanshgaharwar" /> </p>
 
 - 📝 I regularly write articles on [acquino.com](acquino.com)
 
